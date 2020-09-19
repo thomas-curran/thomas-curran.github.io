@@ -1,0 +1,11 @@
+/* ===== Team CSS ===== */
+#mainDiv > .team-name, #mainDiv > .team-title {
+	font-size: 25px;
+	font-weight: bold;
+}
+#mainDiv > .team-name {
+	margin: 20px 5px 2px 5px;
+}
+#mainDiv > .team-title {
+	margin: 2px 5px 15px 5px;
+}
